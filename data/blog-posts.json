@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Las Mejores Prácticas para Desarrollo React en 2024",
+    "excerpt": "Descubre las técnicas más actuales para crear aplicaciones React modernas, escalables y performantes.",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&h=400&fit=crop",
+    "date": "2024-01-15",
+    "readTime": "8 min",
+    "category": "React",
+    "content": "# Las Mejores Prácticas para Desarrollo React en 2024\n\nReact continúa evolucionando y con él, las mejores prácticas para desarrollar aplicaciones modernas...\n\n## 1. Hooks Personalizados\n\nLos hooks personalizados son una excelente manera de reutilizar lógica...\n\n## 2. Optimización de Performance\n\nUsa React.memo, useMemo y useCallback estratégicamente..."
+  },
+  {
+    "id": 2,
+    "title": "Implementando Seguridad en APIs REST",
+    "excerpt": "Guía completa sobre cómo proteger tus APIs con autenticación JWT, rate limiting y validación de datos.",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop",
+    "date": "2024-01-10",
+    "readTime": "12 min",
+    "category": "Seguridad",
+    "content": "# Implementando Seguridad en APIs REST\n\nLa seguridad en APIs es fundamental para proteger datos sensibles...\n\n## Autenticación JWT\n\nJSON Web Tokens proporcionan una forma segura de transmitir información..."
+  }
+]
